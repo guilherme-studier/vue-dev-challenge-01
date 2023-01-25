@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot]('../assets/screenshot-desktop.png')
+![screenshot]('src/assets/screenshot-desktop.png')
 
 
 ### Built With
