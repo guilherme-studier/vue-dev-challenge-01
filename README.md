@@ -26,7 +26,9 @@
 
 ## Overview
 
-![screenshot]('src/assets/screenshot-desktop.png')
+<p align="center">
+  <img alt="Pokedex logo" src="src/assets/screenshot-desktop.png" width="400px" />
+</p>
 
 
 ### Built With
