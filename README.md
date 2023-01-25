@@ -6,16 +6,6 @@
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 <!-- OVERVIEW -->
 
 ## Overview
