@@ -68,7 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- My portfolio Dev Challenge [your-website.com](https://devchallenges.io/portfolio/guilherme-studier)
-- GitHub [@your-username](https://{github.com/guilherme-studier})
-- Twitter [@your-twitter](https://{twitter.com/guistudier})
-- Linkedin [@your-linkedin](https://www.linkedin.com/in/guilherme-dos-santos-studier-b65b94195/)
+- My portfolio Dev Challenge [guilhermestudier.com](https://devchallenges.io/portfolio/guilherme-studier)
+- GitHub [@guilherme-studier](https://{github.com/guilherme-studier}](https://github.com/guilherme-studier/)
+- Linkedin [@guilhermestudier](https://www.linkedin.com/in/guilherme-dos-santos-studier-b65b94195/)
